@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivan Cedrick Militar!
 
-<!--
-**IcedCoding/IcedCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161](https://github.com/user-attachments/assets/3d131622-f3c6-49fc-bb3a-c40b471667de)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Learning Journey
+
+- 🌟 **Day 1**: Starting my journey with **Azure Fundamentals**!  
+  I'm diving into the world of cloud computing and exploring Microsoft Azure to build a strong foundation for my IT career.
+
+- 🌟 **Course 11**: Progressing through the **Fullstack Web Development Bootcamp** by Angela Yu!  
+  I'm learning to create dynamic and responsive web applications using modern tools and frameworks.
+
+- 🌟 **Day 7**: Advancing in the **Complete Python Pro Bootcamp** by Angela Yu!  
+  I'm mastering Python programming, from beginner concepts to advanced projects, and building a strong foundation in one of the most versatile programming languages.
+
+---
+
+## 🛠️ Skills I'm Building
+- **Cloud Computing**: Microsoft Azure (just starting out!)
+- **Web Development**: HTML, CSS
+- **Programming**: Python
+- **Tools**: Git, VS Code
+
+---
+
+## 🎯 Goals for 2025
+- Earn the **Microsoft Azure Fundamentals (AZ-900)** certification.
+- Complete the **Fullstack Web Development Bootcamp** and build a portfolio of projects.
+- Complete the **Complete Python Pro Bootcamp** and create Python-based projects.
+- Start contributing to open-source projects and collaborate with the developer community.
+
+---
+
+## 📫 Let's Connect!
+- **Email**: [ivanmilitardaily@gmail.com](mailto:ivanmilitardaily@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/icedcodes/](https://www.linkedin.com/in/icedcodes/)
+
+---
+
+## ⚡ Fun Fact
+I’m passionate about learning new technologies, solving puzzles 🧩, and exploring how cloud computing, web development, and Python programming can work together to create amazing solutions!
+
+---
+
+Thanks for stopping by! 😊 Feel free to check out my repositories and follow my journey as I grow in the world of tech. 🚀
