@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Ivan Cedrick Militar!
-
 <div align="center">
+  # 👋 Hi, I'm Ivan Cedrick Militar!
+
+  
   <img src="https://github.com/user-attachments/assets/51fcf363-bf42-47d1-9eac-b861d668d00c" alt="Centered Image" width="80%">
 </div>
 
