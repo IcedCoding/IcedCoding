@@ -1,4 +1,6 @@
+<div align="center">
 # 👋 Hi, I'm Ivan Cedrick Militar!
+</div>
 
 
 <div align="center">
