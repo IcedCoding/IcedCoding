@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Cedrick Militar!
 
-<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/3d131622-f3c6-49fc-bb3a-c40b471667de)" alt="Man Coding" height="20" width="100%">
+<img src="https://github.com/user-attachments/assets/d6c3990e-1a2e-49f5-a9cd-5369e75cc99d" alt="GIF Image" height="20" width="100%">
 
 Welcome to my GitHub profile! Here's a little about me:
 
