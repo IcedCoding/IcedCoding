@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Ivan Cedrick Militar!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d6c3990e-1a2e-49f5-a9cd-5369e75cc99d" alt="Centered Image" width="80%">
+  <img src="https://github.com/user-attachments/assets/51fcf363-bf42-47d1-9eac-b861d668d00c" alt="Centered Image" width="80%">
 </div>
+
 
 ---
 
