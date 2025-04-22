@@ -2,7 +2,7 @@
 <h1> 👋 Hi, I'm Ivan Cedrick Militar! </h1>
 </div>
 
-<div align="center" style="padding-bottom: 20px;">
+<div align="center" style="padding-bottom: 20;">
   <img src="https://github.com/user-attachments/assets/51fcf363-bf42-47d1-9eac-b861d668d00c" alt="Centered Image" width="80%">
 </div>
 
